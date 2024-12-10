@@ -62,7 +62,7 @@ button[type="submit"]:hover {
 
 
 /*Ab hier headline*/
-.headline {
+.headliner {
   font-size: 2rem;
   font-weight: bold;
   color: #333;
@@ -70,7 +70,7 @@ button[type="submit"]:hover {
   margin-bottom: 1rem;
 }
 
-.headline a {
+.headliner a {
   color: #333;
   text-decoration: none;
 }
