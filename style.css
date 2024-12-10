@@ -223,6 +223,8 @@ footer {
   max-width: 853px;
   height: auto;
   aspect-ratio: 16 / 9;
+  display: block;
+  margin: 0 auto 1em auto;
 }
 
 .contentplusyt {
@@ -243,6 +245,8 @@ footer {
   color: #333;
   text-decoration: none;
   cursor: pointer;
+  display: block;
+  margin-bottom: 1.5em;
 }
 
 .genreimp {
@@ -254,4 +258,11 @@ footer {
 genreimp:hover {
   color: #2980b9;
   transition: color 0.3s ease;
+}
+.songnames {
+  display: block;
+  text-align: right;
+  margin-top: 0.5em; /* Kleiner Abstand zwischen Video und Liedname */
+  font-style: italic; /* Optional: kursiv für Hervorhebung */
+  color: #444;
 }
