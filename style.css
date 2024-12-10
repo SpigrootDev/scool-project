@@ -192,10 +192,6 @@ footer {
   cursor: pointer;
 }
 
-.artist-list > li > a.genre:hover {
-  color: #f39c12;
-}
-
 /* Nested lists (bands) */
 .artist-list > li > ul {
   list-style: none;
@@ -206,8 +202,4 @@ footer {
   font-size: 1em;
   color: #666;
   padding-left: 10px;
-}
-
-.artist-list > li > ul > li:hover {
-  color: #2ecc71;
 }
