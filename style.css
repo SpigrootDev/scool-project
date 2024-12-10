@@ -231,3 +231,10 @@ footer {
 .contentplusyt > div > div > a {
   margin: 1.4em;
 }
+
+.contentplusyt > div > div > a.genre {
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+  cursor: pointer;
+}
