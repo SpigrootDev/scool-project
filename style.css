@@ -207,3 +207,7 @@ footer {
 .material-symbols-outlined{
   font-size: 1.2em;
 }
+
+.nondeco{
+  text-decoration: none;
+}
