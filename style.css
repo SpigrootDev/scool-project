@@ -204,17 +204,30 @@ footer {
   padding-left: 10px;
 }
 
-.material-symbols-outlined{
+.material-symbols-outlined {
   font-size: 1.2em;
 }
 
-.nondeco{
+.nondeco {
   text-decoration: none;
 }
 
-.ytvid{
+.ytvid {
   display: flex;
   text-align: center;
   justify-content: center;
   margin: auto;
+}
+
+.contentplusyt {
+  max-width: 1000px;
+  margin: 50px auto;
+  padding: 0 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.contentplusyt > div > div > a {
+  margin: 1.4em;
 }
