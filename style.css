@@ -199,11 +199,11 @@ footer {
 }
 
 .artist-list > li > ul > li {
-  font-size: 2em;
+  font-size: 1.2em;
   color: #666;
   padding-left: 10px;
 }
 
 .material-symbols-outlined{
-  font-size: 2em;
+  font-size: 1.2em;
 }
